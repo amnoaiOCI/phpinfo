@@ -2,7 +2,8 @@
   <head>
     <title>PHP info</title>
   </head>
-  <body style='background-color:#ccc'>
+  <body style='background-color:#ccc;'>
+    <br><hr>
     <h3>
     <?php
      echo phpinfo();
