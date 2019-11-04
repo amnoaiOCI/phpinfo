@@ -5,9 +5,8 @@
   <body>
     <h3>
     <?php
-    phpinfo();
+     echo phpinfo();
     ?>
-      
     </h3>
   </body>
 </html>
