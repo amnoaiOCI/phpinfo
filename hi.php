@@ -5,9 +5,7 @@
   <body style='background-color:#ccc;'>
     <br><hr>
     <h3>
-    <?php
-     echo phpinfo();
-    ?>
+AAAAAAAAAA
     </h3>
   </body>
 </html>
