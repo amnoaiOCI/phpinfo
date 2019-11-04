@@ -2,10 +2,10 @@
   <head>
     <title>PHP info</title>
   </head>
-  <body style='background-color:#ccc;'>
+  <body style='background-color:#eee;'>
     <br><hr>
     <h3>
-AAAAAAAAAA
+      echo phpinfo();
     </h3>
   </body>
 </html>
